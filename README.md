@@ -18,3 +18,6 @@ in the tutorial.
 5. Change the world name in hector_quadrotor/hector_quadrotor_demo/launch/
 indoor_slam_gazebo.launch to the desired world to be launched
 6. Launch 
+
+
+Finally, the presentation video can be found under: https://usi365-my.sharepoint.com/:v:/g/personal/husmas_usi_ch/EXJha9fj5ghAvriOWPftvvQBhn4kRJj-5oVPcDqtO7Bbww?e=KouKPq
