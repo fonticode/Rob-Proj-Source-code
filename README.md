@@ -22,4 +22,5 @@ indoor_slam_gazebo.launch to experiments.launch
 7. Launch the desired controller with: rosrun hector_quadrotor_teleop desired_controller_name.launch
 
 Note: The action_controller consists of a short path with x and y coordinate goals to demonstarte the client server relationship and if desired, should be launched in the willow garage or an empty world.
+
 Finally, the presentation video can be found under: https://usi365-my.sharepoint.com/:v:/g/personal/husmas_usi_ch/EXJha9fj5ghAvriOWPftvvQBhn4kRJj-5oVPcDqtO7Bbww?e=KouKPq
