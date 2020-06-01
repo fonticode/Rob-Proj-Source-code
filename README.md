@@ -1,5 +1,5 @@
 
-#### Final Project: Hector Quadrotor Package exploration
+#### Final Project: Hector Quadrotor Package Exploration
 #### Authors: Ivan Fontana and Severin Husmann
 #### Group D
 
@@ -14,9 +14,10 @@ set up and running.
 in the tutorial.
 2. Copy the controllers into hector_quadrotor/hector_quadrotor_teleop
 3. Copy the worlds into hector_gazebo/hector_gazebo_worlds/worlds
-4. Copy the world launch files into hector_gazebo/hector_gazebo_worlds/launch
-5. Change the world name in hector_quadrotor/hector_quadrotor_demo/launch/
-indoor_slam_gazebo.launch to the desired world to be launched
+4. Copy the experiment.launch file into hector_gazebo/hector_gazebo_worlds/launch
+5. Change name of desired world to be launched in experiment.launch
+5. Change the world launch file name in hector_quadrotor/hector_quadrotor_demo/launch/
+indoor_slam_gazebo.launch to experiments.launch
 6. Launch 
 
 
