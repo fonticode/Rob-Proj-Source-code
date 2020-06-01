@@ -1,8 +1,7 @@
-# quadrotorCode-
-#################################################
-### Final Project: Hector Quadrotor #############
-### Authors: Ivan Fontana and Severin Husmann ###
-### Group D #####################################
+
+# Final Project: Hector Quadrotor #############
+# Authors: Ivan Fontana and Severin Husmann ###
+# Group D #####################################
 #################################################
 
 In order to reproduce the results in the report, you can find 
