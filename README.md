@@ -1,5 +1,5 @@
 
-#### Final Project: Hector Quadrotor
+#### Final Project: Hector Quadrotor Package exploration
 #### Authors: Ivan Fontana and Severin Husmann
 #### Group D
 
